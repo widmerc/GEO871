@@ -1,0 +1,196 @@
+Afghanistan	20,116.14	12.60
+Albania	18,260.04	11.40
+Algeria	167,983.14	22.50
+Andorra	3,329.91	7.60
+Angola	72,546.99	21.55
+Antigua & Deps	1,471.13	25.85
+Argentina	491,492.70	14.80
+Armenia	13,861.18	7.15
+Australia	1,542,659.90	21.65
+Austria	477,082.47	6.35
+Azerbaijan	54,622.18	11.95
+Bahamas	11,208.60	24.85
+Bahrain	38,868.66	26.80
+Bangladesh	416,264.94	25.00
+Barbados	4,900.80	26.00
+Belarus	68,218.82	6.15
+Belgium	599,879.03	9.55
+Belize	1,789.92	25.35
+Benin	17,785.64	27.55
+Bhutan	2,315.44	7.40
+Bolivia	40,408.21	21.55
+Bosnia Herzegovina	22,571.51	9.85
+Botswana	17,613.85	21.50
+Brazil	1,608,981.22	24.95
+Brunei	14,006.57	26.85
+Bulgaria	80,271.12	10.55
+Burkina	19,737.62	28.29
+Burundi	2,902.03	19.80
+Cambodia	26,961.06	26.80
+Cameroon	45,238.61	24.60
+Canada	1,990,761.61	−5.10
+Cape Verde	1,936.17	23.30
+Central African Rep	2,516.50	24.90
+Chad	11,779.98	26.55
+Chile	317,058.51	8.45
+China	17,734,062.65	7.50
+Colombia	314,322.45	24.50
+Comoros	1,327.96	25.30
+Congo	12,523.96	24.55
+Congo {Democratic Rep}	53,958.57	24.00
+Costa Rica	64,282.44	24.80
+Croatia	67,837.79	10.90
+Cuba	107,352.00	25.20
+Cyprus	27,719.34	18.45
+Czech Republic	282,340.85	7.55
+Denmark	397,104.34	6.95
+Djibouti	3,371.10	28.00
+Dominica	545.62	22.35
+Dominican Republic	94,243.45	24.55
+East Timor	1,457.83	25.25
+Ecuador	106,165.87	21.85
+Egypt	404,142.77	22.10
+El Salvador	28,736.94	24.45
+Equatorial Guinea	12,269.39	24.55
+Eritrea	2,065.00	25.50
+Estonia	36,262.92	2.00
+Ethiopia	111,271.11	22.20
+Fiji	4,592.12	24.40
+Finland	299,155.24	1.55
+France	2,937,472.76	10.70
+Gabon	18,269.35	25.05
+Gambia	2,078.07	27.50
+Georgia	18,700.24	5.65
+Germany	4,223,116.21	8.40
+Ghana	77,594.28	27.20
+Greece	216,240.59	15.40
+Grenada	1,122.08	26.00
+Guatemala	85,986.32	23.45
+Guinea	15,850.52	25.70
+Guinea-Bissau	1,638.52	26.75
+Guyana	7,409.18	26.00
+Haiti	20,944.39	24.90
+Honduras	28,488.67	23.50
+Hungary	182,280.52	9.75
+Iceland	25,458.93	−0.70
+India	3,173,397.59	23.65
+Indonesia	1,186,092.99	25.85
+Iran	231,547.57	17.25
+Iraq	207,889.33	21.40
+Ireland	498,559.58	9.30
+Israel	481,591.27	19.20
+Italy	2,099,880.20	13.45
+Ivory Coast	69,764.83	26.35
+Jamaica	13,638.23	24.95
+Japan	4,937,421.88	11.15
+Jordan	45,243.66	18.30
+Kazakhstan	190,814.27	5.50
+Kenya	110,347.08	24.75
+Kiribati	180.91	28.20
+Korea North	1,300.00	5.70
+Korea South	1,798,533.92	11.50
+Kosovo	9,007.16	9.5
+Kuwait	105,960.23	27.15
+Kyrgyzstan	8,543.42	2.10
+Laos	18,827.15	22.80
+Latvia	38,872.55	5.60
+Lebanon	18,076.62	15.00
+Lesotho	2,518.47	11.85
+Liberia	3,486.74	25.30
+Libya	41,879.58	21.80
+Liechtenstein	6,427.25	5.80
+Lithuania	65,503.85	6.20
+Luxembourg	86,710.80	8.65
+Macedonia	13,879.27	9.80
+Madagascar	14,637.40	22.65
+Malawi	12,626.72	21.90
+Malaysia	372,701.36	25.40
+Maldives	4,889.67	28.00
+Mali	19,143.74	28.25
+Malta	17,189.73	19.20
+Marshall Islands	248.67	27.40
+Mauritania	8,227.58	27.65
+Mauritius	11,156.66	22.40
+Mexico	1,293,037.87	21.00
+Micronesia	404.18	25.85
+Moldova	13,679.22	9.45
+Monaco	6,816.22	13.55
+Mongolia	15,098.02	1.70
+Montenegro	5,809.17	10.55
+Morocco	132,725.26	17.10
+Mozambique	16,095.83	23.80
+Myanmar, {Burma}	65,067.81	13.05
+Namibia	12,236.25	19.95
+Nauru	133.22	27.83
+Nepal	36,288.83	8.10
+Netherlands	1,018,007.06	9.25
+New Zealand	249,991.51	10.55
+Nicaragua	14,013.02	24.90
+Niger	14,950.95	27.15
+Nigeria	440,776.97	27.00
+Norway	482,437.02	1.50
+Oman	85,868.63	25.60
+Pakistan	346,343.17	20.20
+Palau	257.70	27.60
+Panama	63,605.07	25.40
+Papua New Guinea	26,594.28	25.25
+Paraguay	38,986.81	23.55
+Peru	223,249.50	19.60
+Philippines	394,086.42	25.55
+Poland	674,048.27	7.85
+Portugal	249,886.46	15.15
+Qatar	179,570.78	27.15
+Romania	284,087.56	8.80
+Russian Federation	1,775,799.92	-5.35
+Rwanda	11,070.36	17.85
+St Kitts & Nevis	18,230.13	24.50
+St Lucia	9,571.00	25.50
+Saint Vincent & the Grenadines	7,996.61	26.80
+Samoa	788.39	26.70
+San Marino	1,544.71	11.85
+Sao Tome & Principe	547.09	23.75
+Saudi Arabia	833,541.24	24.65
+Senegal	27,625.39	27.85
+Serbia	63,068.13	10.55
+Seychelles	1,320.05	27.15
+Sierra Leone	4,200.38	26.05
+Singapore	396,986.90	26.45
+Slovakia	114,870.71	6.80
+Slovenia	61,526.33	8.90
+Solomon Islands	1,645.21	25.65
+Somalia	7,292.72	27.05
+South Africa	419,946.43	17.75
+South Sudan	11,997.80	28.50
+Spain	1,425,276.59	13.30
+Sri Lanka	84,518.83	26.95
+Sudan	34,326.06	26.90
+Suriname	2,862.13	25.70
+Swaziland	4,941.37	21.40
+Sweden	627,437.90	1.75
+Switzerland	812,866.93	5.10
+Syria	21,445.78	17.75
+Taiwan	35,510.00	27.00
+Tajikistan	8,746.27	6.40
+Tanzania	67,775.10	22.35
+Thailand	505,981.66	26.30
+Togo	8,413.20	27.15
+Tonga	488.83	25.25
+Trinidad & Tobago	21,391.80	25.75
+Tunisia	46,840.04	19.20
+Turkey	815,271.75	9.90
+Turkmenistan	45,231.43	15.10
+Tuvalu	63.10	27.65
+Uganda	40,434.70	22.80
+Ukraine	200,085.54	8.30
+United Arab Emirates	358,868.77	26.65
+United Kingdom	3,186,859.74	8.45
+United States	22,996,100.00	8.55
+Uruguay	59,319.55	17.55
+Uzbekistan	69,238.90	12.05
+Vanuatu	983.47	23.95
+Vatican City	21,198.00	17.55
+Venezuela	482,359.32	25.35
+Vietnam	362,637.52	24.45
+Yemen	21,061.69	23.85
+Zambia	21,203.06	21.40
+Zimbabwe	26,217.73	21.00
