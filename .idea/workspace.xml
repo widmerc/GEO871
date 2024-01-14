@@ -6,21 +6,37 @@
   <component name="ChangeListManager">
     <list default="true" id="961f17cd-22bc-454d-b4cc-81c7ed543b17" name="Changes" comment="update Project.ipynb and added PP Presentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "widmerc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;widmerc&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
