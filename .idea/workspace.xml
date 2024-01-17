@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="961f17cd-22bc-454d-b4cc-81c7ed543b17" name="Changes" comment="update Project.ipynb and added word">
-      <change beforePath="$PROJECT_DIR$/.idea/GEO871.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GEO871.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEO871_Arbeit.docx" beforeDir="false" afterPath="$PROJECT_DIR$/GEO871_Arbeit.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/01_Dataset_overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/01_Dataset_overview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/02_hist_lat_lon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/02_hist_lat_lon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/03_KDE_lat_lon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/03_KDE_lat_lon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/04_Overview_music_per_country.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/04_Overview_music_per_country.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/05_Overview_music_per_region.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/05_Overview_music_per_region.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/06_Overview_music_per_continent.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/06_Overview_music_per_continent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/07_Boxplot_68Features.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/07_Boxplot_68Features.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/10_Clustering_region.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/10_Clustering_region.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11_KMeans_clusters.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
