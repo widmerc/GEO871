@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="961f17cd-22bc-454d-b4cc-81c7ed543b17" name="Changes" comment="update Project.ipynb and added PP Presentation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08_PCA_n_comp_vs_variance3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/09_Boxplot_68Features_PCA.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/11_DBSCAN_Clusters.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/12_Overview_DBSCAN_Clusters.png" afterDir="false" />
+    <list default="true" id="961f17cd-22bc-454d-b4cc-81c7ed543b17" name="Changes" comment="update Project.ipynb and added word">
+      <change afterPath="$PROJECT_DIR$/images/11_KMeans_clusters.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +36,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,17 +46,21 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2YTuBHbEDUvhV1yyAm8CU6uhiza" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,8 +76,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <MESSAGE value="update Project.ipynb and added PP Presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Project.ipynb and added PP Presentation" />
+    <MESSAGE value="update Project.ipynb and added word" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Project.ipynb and added word" />
   </component>
 </project>
