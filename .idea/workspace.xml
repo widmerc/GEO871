@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="961f17cd-22bc-454d-b4cc-81c7ed543b17" name="Changes" comment="update Project.ipynb and added word">
-      <change afterPath="$PROJECT_DIR$/images/11_KMeans_clusters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
